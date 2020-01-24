@@ -1,2 +1,10 @@
-
+![](img/stocker_landingpage.jpg)
 ![](img/stocker_loginpage.jpg)
+![](img/stocker_editprofile.jpg)
+![](img/stocker_adminlogin.jpg)
+![](img/stocker_userpage.jpg)
+![](img/stocker_stocks.jpg)
+![](img/stocker_predictedgraph.jpg)
+![](img/stocker_actualdate.jpg)
+![](img/stocker_predicteddategraph.jpg)
+
