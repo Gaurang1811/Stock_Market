@@ -26,7 +26,6 @@
 ![](img/stocker_userpage.jpg)
 <br><br>
 `This is the main page of the website wherein the user has the option to select the stocks for which he wishes to see the prediction.`
-
 <br><br><br><br>
 
 ![](img/stocker_stocks.jpg)
@@ -42,6 +41,7 @@
 ![](img/stocker_actualdate.jpg)
 <br><br>
 `As one can see, the Y-axis displays the price in Indain Rupees and the X-axis displays the time period ie. Date. The graph displayed on the page is divided into 2 parts:-`
+
 `1. Actual Data - The data which is represented with the red color is the actual data on which the model has trained.`
 
 `2. Forecasted Data - The data which is represented with blue color which is the predicted data which the end user desires.`
