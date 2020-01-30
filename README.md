@@ -1,6 +1,6 @@
 # Stocker
 ## Summary:
-**Stocker**, `as the name suggests was built with an approach to try and predict stock prices. Although, accurate stock price prediction is still far fetched due to several volatile parameters, here is an attempt to predict the same. I have used **Artificial Neural Network** and deep learning libraries like Keras, TensorFlow and accomplished the prediction of stock market prices with **80%** plus accuracy for a span of one week by building and training the model on the **Bombay Stock Exchange(BSE)** dataset of stocks.`
+**Stocker**, `as the name suggests was built with an approach to try and predict stock prices. Although, accurate stock price prediction is still far fetched due to several volatile parameters, here is an attempt to predict the same. I have used` **Artificial Neural Network** `and deep learning libraries like Keras, TensorFlow and accomplished the prediction of stock market prices with` **80%** `plus accuracy for a span of one week by building and training the model on the` **Bombay Stock Exchange(BSE)** `dataset of stocks.`
 <br><br><br><br>
 
 ![](img/stocker_landingpage.jpg)
@@ -35,7 +35,7 @@
 
 ![](img/stocker_predictedgraph.jpg)
 <br><br>
-`After the user selects the stock for which he/she wishes to see the predicted price of that particular stock, the user is provided with `**High Price**, **Low Price**, **Closing Price** and **Weighted Average Price(WAP)**. `The main objective is to provide the user with value of the stock which is the Weighted Average Price in this case.`
+`After the user selects the stock for which he/she wishes to see the predicted price of that particular stock, the user is provided with `**High Price, Low Price, Closing Price and Weighted Average Price(WAP)**. `The main objective is to provide the user with value of the stock which is the Weighted Average Price in this case.`
 <br><br><br><br>
 
 ![](img/stocker_actualdate.jpg)
