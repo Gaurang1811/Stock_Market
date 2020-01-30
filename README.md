@@ -6,7 +6,7 @@
 ![](img/stocker_landingpage.jpg)
 <br><br>
 `This is the landing page of the project wherein the user can see his/her stock history and view its prediction graph.`
-<br><br><br><br>
+<br><br><br><br><hr>
 
 ![](img/stocker_loginpage.jpg)
 <br><br>
